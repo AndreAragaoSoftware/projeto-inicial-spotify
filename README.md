@@ -55,7 +55,7 @@ Para visualizar o projeto localmente:
 
 ## Visite o Projeto
 
-Você pode visualizar o projeto online [aqui](https://projeto-spotify-bootstrap.vercel.app/).
+Você pode visualizar o projeto online <a href="https://projeto-spotify-bootstrap.vercel.app/" target="_blank">aqui</a>.
 
 ## Licença
 
